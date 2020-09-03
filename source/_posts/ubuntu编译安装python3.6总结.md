@@ -1,3 +1,7 @@
+---
+title: ubuntu编译安装python3.6总结
+---
+
 如何在不影响系统自带python3.5的情况下，编译安装python3.6
 
 ## 1.安装依赖

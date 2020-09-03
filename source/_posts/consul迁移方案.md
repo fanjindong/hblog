@@ -1,4 +1,6 @@
-# consul 迁移至 ACM
+---
+title: consul 迁移至 ACM
+---
 
 ## 1.问题背景
 

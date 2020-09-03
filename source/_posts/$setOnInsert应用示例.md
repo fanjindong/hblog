@@ -1,3 +1,7 @@
+---
+title: MongoDb的$setOnInsert应用
+---
+
 未使用`$setOnInsert`之前
 ```python
 	mongo_update = {"status": 1}
