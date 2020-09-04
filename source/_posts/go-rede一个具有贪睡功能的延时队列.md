@@ -1,4 +1,8 @@
+---
+title: MongoDb的$setOnInsert应用
+---
 #! https://zhuanlan.zhihu.com/p/215502812
+
 # go-rede
 
 项目地址：https://github.com/fanjindong/go-rede
